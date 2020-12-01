@@ -59,5 +59,5 @@ By IBM on Coursera
         * Lab Two-Dimensional Tensors (Two-DimensionalTensors.ipynb)       
         * Lab Differentiation in PyTorch (DifferentiationInPyTorch.ipynb)      
         * Lab Simple Data Set (SimpleDataset.ipynb)
-        * Lab Data Set (ImageDatasetsAndTransforms.ipynb)
-        * Lab Torch Vision Datasets (PrebuiltDatasetsAndTransforms.ipynb)
+        * Lab Tensors 1D (TorchTensorsIn1D.ipynb)  
+        * Lab Tensors 1D (TorchTensorsIn1D.ipynb)  
