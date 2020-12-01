@@ -52,3 +52,10 @@ By IBM on Coursera
                 
 7. Week 7: Peer Review </br>
                 *
+
+
+* Week 5: </br>
+        * Final Project N°1      
+        * Final Project N°2        
+        * Final Project N°3        
+        * Final Project N°4
