@@ -4,7 +4,7 @@ By IBM on Coursera
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* Week 1: Tensor and Datasets </br>
+1. Week 1: Tensor and Datasets </br>
                 * Lab Tensors 1D (TorchTensorsIn1D.ipynb)
                 * Lab Two-Dimensional Tensors (Two-DimensionalTensors.ipynb)
                 * Lab Differentiation in PyTorch (DifferentiationInPyTorch.ipynb)
@@ -12,7 +12,7 @@ By IBM on Coursera
                 * Lab Data Set (ImageDatasetsAndTransforms.ipynb)
                 * Lab Torch Vision Datasets (PrebuiltDatasetsAndTransforms.ipynb)
 
-* Week 2: Linear Regression </br>
+2. Week 2: Linear Regression </br>
                 * Lab Linear Regression 1D: Prediction (LinearRegression1D:Prediction.ipynb)
                 * Lab Linear Regression 1D: Prediction (LinearRegression1D:TrainingOneParameter.ipynb)
                 * Lab Linear Regression: Prediction (LinearRegression1D:TrainingTwoParameter.ipynb)
@@ -21,7 +21,7 @@ By IBM on Coursera
                 * Linear Regression 1D PyTroch (LinearRegression1D:TrainingTwoParameterMini-BatchGradientDescent.ipynb)
                 * Training, Validation and Test Split in PyTorch (LinearRegression:TrainingAndValidationData.ipynb)
 
-* Week 3: Multiple Input Output Linear Regression - Logistic Regression for Classification </br>
+3. Week 3: Multiple Input Output Linear Regression - Logistic Regression for Classification </br>
                 * Multiple Linear Regression Prediction (MultipleLinearRegression.ipynb)
                 * Multiple Linear Regression Training (LinearRegressionMultipleOutputs1.ipynb)
                 * Multiple Linear Regression Prediction (LinearRegressionWithMultipleOutputs.ipynb)
@@ -30,7 +30,7 @@ By IBM on Coursera
                 * Logistic Regression Mean Square Error (LogisticRegressionAndBadInitializationValue.ipynb)
                 * Logistic Regression Cross Entropy (LogisticRegressionTrainingNegativeLogLikelihood(Cross-Entropy).ipynb)
 
-* Week 4: Softmax Regression - Shallow Neural Networks </br>
+4. Week 4: Softmax Regression - Shallow Neural Networks </br>
                 * Softmax Classifier 1 (SoftmaxClassifier1D.ipynb)
                 * Softmax Classifier 2 (SoftmaxClassifier.ipynb)
                 * Neural Networks in One Dimension (SimpleOneHiddenLayerNeuralNetwork.ipynb)
@@ -40,15 +40,15 @@ By IBM on Coursera
                 * Activation Functions (ActivationFunctions.ipynb)
                 * Neural Network with Different Activation Functions (TestSigmoid,TanhAndReluActivationsFunctionsOnTheMNISTDataset.ipynb)
 
-* Week 5: Deep Networks </br>
+5. Week 5: Deep Networks </br>
                 * Deep Neural Networks (HiddenLayerDeepNetwork:Sigmoid,TanhAndReluActivationsFunctionsMNISTDataset.ipynb)
                 * Deeper Neural Networks : nn.ModuleList() (DeeperNeuralNetworksWith_nn.ModuleList().ipynb)
                 * Dropout Classification (UsingDropoutForClassification.ipynb)
                 * Dropout regression (UsingDropoutInRegression.ipynb)
                 * 
                 
-* Week 6: Convolutional Neural Networks </br>
+6. Week 6: Convolutional Neural Networks </br>
                 *
                 
-* Week 7: Peer Review </br>
+7. Week 7: Peer Review </br>
                 *
