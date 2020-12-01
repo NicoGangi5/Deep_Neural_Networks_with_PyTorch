@@ -54,7 +54,7 @@ By IBM on Coursera
                 *
 
 
-* Week 5: </br>
+* Week 1: Tensor and Datasets </br>
         * Lab Tensors 1D (TorchTensorsIn1D.ipynb)    
         * Lab Two-Dimensional Tensors (Two-DimensionalTensors.ipynb)       
         * Final Project N°3        
