@@ -57,5 +57,7 @@ By IBM on Coursera
 * Week 1: Tensor and Datasets </br>
         * Lab Tensors 1D (TorchTensorsIn1D.ipynb)    
         * Lab Two-Dimensional Tensors (Two-DimensionalTensors.ipynb)       
-        * Final Project N°3        
-        * Final Project N°4
+        * Lab Differentiation in PyTorch (DifferentiationInPyTorch.ipynb)      
+        * Lab Simple Data Set (SimpleDataset.ipynb)
+        * Lab Data Set (ImageDatasetsAndTransforms.ipynb)
+        * Lab Torch Vision Datasets (PrebuiltDatasetsAndTransforms.ipynb)
