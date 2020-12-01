@@ -55,7 +55,7 @@ By IBM on Coursera
 
 
 * Week 5: </br>
-        * Final Project N°1      
-        * Final Project N°2        
+        * Lab Tensors 1D (TorchTensorsIn1D.ipynb)    
+        * Lab Two-Dimensional Tensors (Two-DimensionalTensors.ipynb)       
         * Final Project N°3        
         * Final Project N°4
