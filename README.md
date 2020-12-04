@@ -53,9 +53,9 @@ By IBM on Coursera
                 > Batch Normalization _(BatchNormalizationWithTheMNISTDataset.ipynb)_ </br>
 
 6. Week 6: **Convolutional Neural Networks** </br>
-                > What's Convolution _(What'sConvolution.ipynb)_
-                > Activation function and Maxpooling _(ActivationFunctionAndMaxpooling)_
-                > Multiple Input and Output Channels _(MultipleInputAndOutputChannels.ipynb)_
-                > Convolutional Neural Network Simple example _(ConvolutionalNeuralNetworkSimpleExample.ipynb)_
-                > Convolutional Neural Network MNIST _(ConvolutionalNeuralNetworkWithSmall_Images.ipynb)_
-                > Convolutional Neural Networks with Batch Norm _()_
+                > What's Convolution _(What'sConvolution.ipynb)_ </br>
+                > Activation function and Maxpooling _(ActivationFunctionAndMaxpooling)_ </br>
+                > Multiple Input and Output Channels _(MultipleInputAndOutputChannels.ipynb)_ </br>
+                > Convolutional Neural Network Simple example _(ConvolutionalNeuralNetworkSimpleExample.ipynb)_ </br>
+                > Convolutional Neural Network MNIST _(ConvolutionalNeuralNetworkWithSmall_Images.ipynb)_ </br>
+                > Convolutional Neural Networks with Batch Norm _()_ </br>
