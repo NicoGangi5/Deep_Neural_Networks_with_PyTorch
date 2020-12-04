@@ -46,14 +46,16 @@ By IBM on Coursera
                 > Dropout Classification _(UsingDropoutForClassification.ipynb)_ </br>
                 > Dropout regression _(UsingDropoutInRegression.ipynb)_ </br>
                 > Initialization _(InitializationWithSameWeights.ipynb)_ </br>
-                > Initialization Xavier _(Test Uniform,DefaultAndXavierUniformInitializationOnMNISTDatasetWithTanhActivation.ipynb)_ </br>
+                > Initialization Xavier _(TestUniform,DefaultAndXavierUniformInitializationOnMNISTDatasetWithTanhActivation.ipynb)_ </br>
                 > Initialization He _(TestUniform,DefaultAndHeInitializationOnMNISTDatasetWithReluActivation.ipynb)_ </br>
                 > Momentum with Different Polynomials _(Momentum.ipynb)_ </br>
                 > Neural network momentum _(NeuralNetworksWithMomentum.ipynb)_ </br>
                 > Batch Normalization _(BatchNormalizationWithTheMNISTDataset.ipynb)_ </br>
 
 6. Week 6: **Convolutional Neural Networks** </br>
-                >
-
-7. Week 7: **Peer Review** </br>
-                >
+                > What's Convolution _(What'sConvolution.ipynb)_
+                > Activation function and Maxpooling _(ActivationFunctionAndMaxpooling)_
+                > Multiple Input and Output Channels _(MultipleInputAndOutputChannels.ipynb)_
+                > Convolutional Neural Network Simple example _(ConvolutionalNeuralNetworkSimpleExample.ipynb)_
+                > Convolutional Neural Network MNIST _(ConvolutionalNeuralNetworkWithSmall_Images.ipynb)_
+                > Convolutional Neural Networks with Batch Norm _()_
